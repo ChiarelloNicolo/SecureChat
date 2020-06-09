@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/niko_/Documents/NetBeansProjects/SecureChat/src/UtilsPackage/DecryptedMessage.java</file>
+            <file>file:/C:/Users/niko_/Documents/NetBeansProjects/SecureChat/src/UtilsPackage/DBConnection.java</file>
+            <file>file:/C:/Users/niko_/Documents/NetBeansProjects/SecureChat/src/RSAPackage/RSA.java</file>
+            <file>file:/C:/Users/niko_/Documents/NetBeansProjects/SecureChat/src/AESPackage/AES.java</file>
+            <file>file:/C:/Users/niko_/Documents/NetBeansProjects/SecureChat/src/UtilsPackage/EncryptedMessage.java</file>
+            <file>file:/C:/Users/niko_/Documents/NetBeansProjects/SecureChat/src/AESPackage/AESKey.java</file>
+            <file>file:/C:/Users/niko_/Documents/NetBeansProjects/SecureChat/src/RSAPackage/RSAKey.java</file>
+            <file>file:/C:/Users/niko_/Documents/NetBeansProjects/SecureChat/src/UtilsPackage/RandomString.java</file>
+            <file>file:/C:/Users/niko_/Documents/NetBeansProjects/SecureChat/src/ChatPackage/ChatFrame.java</file>
+            <file>file:/C:/Users/niko_/Documents/NetBeansProjects/SecureChat/src/ServerPackage/Server.java</file>
+            <file>file:/C:/Users/niko_/Documents/NetBeansProjects/SecureChat/src/UtilsPackage/CertificatesQueries.java</file>
+        </group>
+    </open-files>
+</project-private>
